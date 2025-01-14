@@ -225,7 +225,7 @@ function getBooks() {
           rating: 4.5,
         },
       ]);
-    }, 1000);
+    }, 2500);
     });
   }
 function getBooksFeatured() {
@@ -265,7 +265,7 @@ function getBooksFeatured() {
           rating: 4.5,
         },
       ]);
-    }, 1000);
+    }, 2000);
     });
   }
   // (async function initialize() {
